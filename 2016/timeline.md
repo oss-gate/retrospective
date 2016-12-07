@@ -167,6 +167,6 @@ https://gitter.im/oss-gate/kansai?at=5846c1a6b4ffd59e38f2104a
 
 東京でOSS Gateふりかえり。
 
-  * [OSS Gate ふりかえり 2015 - OSS Gate | Doorkeeper](https://oss-gate.doorkeeper.jp/events/54119)
+  * [OSS Gate ふりかえり 2016 - OSS Gate | Doorkeeper](https://oss-gate.doorkeeper.jp/events/54119)
 
 この会。
