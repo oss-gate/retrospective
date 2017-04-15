@@ -71,16 +71,25 @@
 
 ## 2017-03-30
 
-[OSS Gate東京ミートアップ2017-03-30](https://oss-gate.doorkeeper.jp/events/58374) を開催予定 // イマココ
+[OSS Gate東京ミートアップ2017-03-30](https://oss-gate.doorkeeper.jp/events/58374) 
 
 * Doorkeeprの申込状況
   * ビギナー 10名
   * メンター 5名
   * 開発者 2名
+
+## 2017-04-13
+
+[OSS Gate東京ミートアップ2017-04-13](https://oss-gate.doorkeeper.jp/events/59418)
+
+* Doorkeeprの申込状況
+  * ビギナー 3名
+  * サポーター 1名
+  * 開発者 4名
   
 ## 2017-04-22
 
-[OSS Gate大阪ワークショップ2017-04-22](https://oss-gate.doorkeeper.jp/events/58579) を開催予定
+[OSS Gate大阪ワークショップ2017-04-22](https://oss-gate.doorkeeper.jp/events/58579) を開催予定 // イマココ
 
 * Doorkeeprの申込状況
   * ビギナー 8名
@@ -91,6 +100,12 @@
 
 [OSS Gate東京ふりかえり2017-01 ~ 2017-03](https://oss-gate.doorkeeper.jp/events/59283) を開催予定
 
+## 2017-05-22
+
+OSS Gate東京ミートアップ2017-05-22
+
 ## 2017-05-27
 
 [OSS Gate東京ワークショップ2017-05-27](https://oss-gate.doorkeeper.jp/events/59202)
+
+[OSS Gate大阪ワークショップ2017-05-27](https://oss-gate.doorkeeper.jp/events/59634)
