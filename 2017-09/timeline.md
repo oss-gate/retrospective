@@ -65,19 +65,7 @@
 ## 2017-08-28
 * [OSS Gate東京ミートアップ2017-08-28](https://oss-gate.doorkeeper.jp/events/63053) を開催予定
 * 開催の狙い
-* Doorkeeper 申込状況
-  * 開発者枠
-  3名
-  * 駆け出し開発者枠
-  5名
 
 ## 2017-09-02
 * [OSS Gate東京ワークショップ for 高専 2017-09-02](https://oss-gate.doorkeeper.jp/events/63111) を開催予定
 * 開催の狙い
-* Doorkeeper 申込状況
-  * ビギナー（高専生、学生）
-  4名
-  * ビギナー（上記以外）
-  3名
-  * サポーター
-  5名
