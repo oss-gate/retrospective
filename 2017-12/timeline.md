@@ -45,6 +45,11 @@
     * https://github.com/apache/arrow/pull/1342
     * https://github.com/dmlc/xgboost/pull/2892
 
+## 2017-11-07
+* イベントページ
+  * [pmconf 2017](http://2017.pmconf.jp/)
+* 参加状況:500 人くらい。Speeeさんの展示ブースでずっと OSS Gate の宣伝が流れてたので、だいぶ認知されたんじゃないでしょうか
+
 ## 2017-10-24
 
 * イベントページ
