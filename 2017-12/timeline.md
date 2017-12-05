@@ -45,6 +45,19 @@
     * https://github.com/apache/arrow/pull/1342
     * https://github.com/dmlc/xgboost/pull/2892
 
+## 2017-11-18
+
+* イベントページ
+  * [OSS Gate大阪ワークショップ2017-11-18](https://oss-gate.doorkeeper.jp/events/65122)
+  * 学生の参加を優先しました。
+* 参加状況
+  * ビギナー（学生）:	4人
+  * ビギナー:	1人
+  * サポーター:	8人
+  * レポーター:	1人
+* 補足
+  * 広島からOSS Gateを開催するためにサポーターとレポーターの2名が参加
+ 
 ## 2017-11-07
 * イベントページ
   * [pmconf 2017](http://2017.pmconf.jp/)
