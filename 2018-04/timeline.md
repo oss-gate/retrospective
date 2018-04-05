@@ -49,6 +49,13 @@
 * 補足
   * ...
 
+## 2018-03-16
+* イベントページ
+  * [はんなりPython #4](https://hannari-python.connpass.com/event/78654/)@京都
+* 補足
+  * LTでOSS Gateの紹介をしました。
+  * Hatenaでやるという口約束しました。（予定は未定）
+
 ## ...
 
 ...
