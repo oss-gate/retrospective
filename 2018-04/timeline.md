@@ -59,7 +59,7 @@
 
 ## 2018-03-10
 * イベントページ
-  * [OSS Gate大阪ワークショップ2018-03-10](https://oss-gate.doorkeeper.jp/events/69160)
+  * [OSS Gate大阪ワークショップ2018-03-10](https://oss-gate.doorkeeper.jp/events/69160)
 * 参加状況
   * ビギナー 7名
   * サポーター 7名
