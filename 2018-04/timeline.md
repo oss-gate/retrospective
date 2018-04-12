@@ -14,6 +14,16 @@
 * 補足
   * ...
 
+## 2017-12-09
+
+* イベントページ
+  * [OSS Gate京都ワークショップ at Kumano-Ryo 2017-12-09](https://oss-gate.doorkeeper.jp/events/66508)
+* 参加状況
+  * ビギナー 3人
+  * サポーター 3人
+* 補足
+  * 来年も熊野寮で開催予定
+
 ## 2018-01-27
 * イベントページ
   * [OSS Gate東京ワークショップ2018-01-27](https://oss-gate.doorkeeper.jp/events/68516)
