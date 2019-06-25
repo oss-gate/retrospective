@@ -27,7 +27,7 @@
 ## 2019-01-26
 
 * イベントページ
-  * [OSS Gate東京ワークショップ2019-01-26](https://oss-gate.doorkeeper.jp/events/84571)
+  * [OSS Gate東京ワークショップ2019-01-26](https://oss-gate.doorkeeper.jp/events/85222)
 * 参加状況
   * ビギナー 5人
   * サポーター 6人
