@@ -89,7 +89,7 @@
 ## 2019-11-24
 
 * イベントページ
-  * [OSS Gate大阪ワークショップ](https://oss-gate.doorkeeper.jp/events/100178)
+  * [OSS Gate大阪ワークショップ2019-11-24](https://oss-gate.doorkeeper.jp/events/100178)
 * 参加状況
   * ビギナー: 2人
   * サポーター: 2人
