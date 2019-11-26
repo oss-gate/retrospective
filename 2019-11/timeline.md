@@ -30,7 +30,6 @@
 
 * イベントページ
   * [OSS Gate Fukuoka - 3 commits -](https://oss-gate-fukuoka.connpass.com/event/143877/)
-  * ※：イベントに紐付いていないできごとでもOK。○○のLTでOSS Gateのことを知って自分の地域でもやろうと思った！とか、キックオフを開いたとか。
 * 参加状況
   * ビギナー: 9 名
   * サポーター: 3 名
